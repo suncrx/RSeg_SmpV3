@@ -1,0 +1,17 @@
+albumentations==2.0.5
+imutils==0.5.4
+matplotlib==3.10.1
+numpy==2.2.3
+opencv_python_headless==4.11.0.86
+pandas==2.2.3
+patchify==0.2.3
+Pillow==11.1.0
+PyYAML==6.0.1
+PyYAML==6.0.2
+rasterio==1.4.3
+segmentation_models_pytorch==0.4.0
+skimage==0.0
+torch==2.5.0
+torchvision==0.20.0
+tqdm==4.66.5
+ultralytics==8.3.85

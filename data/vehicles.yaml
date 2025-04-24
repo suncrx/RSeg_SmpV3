@@ -1,0 +1,10 @@
+exp_name: "Vehicle Segmentation"
+
+path:  'D:/GeoData/DLData/Vehicle/Vehicle_seg'
+train: 'train/images'
+val: 'val/images'
+
+bands: [0,1,2]
+nclasses:  1
+names: ['vehicle']
+

@@ -1,0 +1,10 @@
+exp_name: "Saltern-segmentation"
+
+path:  'D:/GeoData/DLData/Saltern/10bands'
+train: 'train/images'
+val: 'val/images'
+
+bands: [0,1,2,3,4,5,6,7,8,9]
+nclasses:  1
+names: ['saltern']
+

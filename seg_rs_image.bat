@@ -1,0 +1,1 @@
+python seg_rs_image.py --model_file="D:/dlwater/train_data/wat_nj_nirg256/out/trained_models/unet_resnet50/unet_resnet50_best.pt" --image="D:/dlwater/test_data/st2_wh/region1.jpg" --tile_sz=256 --is_yolo=0 --out_filepath="" --conf=0.5 --save_tiles=0

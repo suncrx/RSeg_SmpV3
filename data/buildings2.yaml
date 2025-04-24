@@ -1,0 +1,9 @@
+exp_name: "Waters-segmentation"
+
+path: 'D:/GeoData/DLData/Buildings'
+train: 'train/images'
+val: 'val/images'
+
+bands: [0,1,2]
+nclasses:  2
+names: ['unknown','buildings']

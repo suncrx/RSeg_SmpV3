@@ -1,0 +1,1 @@
+python xml2yolo.py --img_path D:\GeoData\DLData\SurfaceDefects\NEU-DET\train\images --xml_path D:\GeoData\DLData\SurfaceDefects\NEU-DET\train\annotations --out_path D:\GeoData\DLData\SurfaceDefects\NEU-DET\train\labels

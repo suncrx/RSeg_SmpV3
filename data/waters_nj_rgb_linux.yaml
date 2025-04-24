@@ -1,0 +1,10 @@
+exp_name: "Waters-segmentation"
+
+path:  '/home/chenrx/dlwater/train_data/wat_nj_rgb'
+train: 'train/images'
+val: 'val/images'
+
+bands: [0,1,2]
+nclasses:  1
+names: ['water']
+
